@@ -52,5 +52,5 @@ function spamla(){
 
 
 });
-client.login("TOKENİNİZ");
+client.login("Nzk2MzY5MTUzMTA2NjQwOTQ3.X_W6kQ.TDs4KvR0-_3CwPX-BddZ8ITuN9E");
 
