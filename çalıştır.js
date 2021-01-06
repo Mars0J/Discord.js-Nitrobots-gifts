@@ -32,7 +32,7 @@ function spamla(){
         messae.channel.send("https:/"+"/discord.gift/" + rasteleSembol(16, '0aA'));
 }
 
-        if (message.channel.id = "796367293226418226"){
+        if (message.channel.id = "KANAL İD"){
                 if (message.content.startsWith("hrr!nitro ")){
                 try{
                 var veri = message.content.toString();
@@ -52,5 +52,5 @@ function spamla(){
 
 
 });
-client.login("Nzk2MzY5MTUzMTA2NjQwOTQ3.X_W6kQ.TDs4KvR0-_3CwPX-BddZ8ITuN9E");
+client.login("BOT İD");
 
