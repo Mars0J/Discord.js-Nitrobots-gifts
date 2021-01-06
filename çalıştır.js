@@ -22,11 +22,11 @@ for (var i = uzunluk; i > 0; --i)
 
 sonuc += maske[Math.floor(Math.random() * maske.length)];
 
-{
+}
 
 return sonuc;
 
-{
+}
 
 function spamla(){
         messae.channel.send("https:/"+"/discord.gift/" + rasteleSembol(16, '0aA'));
@@ -45,6 +45,10 @@ function spamla(){
 
                 else{
                         message.reply("kanka ya saniye kısmı 5 saniyeden az ya da saniye kısmına başka birşey yazıyon, senle mi uğraşcam orospu?");
+                }
+                }
+                catch(err){
+                        message.channel.send("Teknik bir hata oluştu");
                 }
                 }
                 }
