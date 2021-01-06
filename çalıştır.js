@@ -53,8 +53,7 @@ function spamla(){
                 }
                 }
 
-
-
 });
-client.login("Nzk2MzY5MTUzMTA2NjQwOTQ3.X_W6kQ.Ob3SNPQTPwG4kzdjlKvMoAVuZ34");
+client.login("Nzk2MzY5MTUzMTA2NjQwOTQ3.X_W6kQ.CvqoDVTu2z0g5SqomRhA5DTAEdA");
+
 
