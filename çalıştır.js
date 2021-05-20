@@ -44,7 +44,7 @@ function spamla(){
                 }
 
                 else{
-                        message.reply("kanka ya saniye kısmı 5 saniyeden az ya da saniye kısmına başka birşey yazıyon, senle mi uğraşcam orospu?");
+                        message.reply("kanka ya saniye kısmı 5 saniyeden az ya da saniye kısmına başka birşey yazıyon, senle mi uğraşcam?");
                 }
                 }
                 catch(err){
